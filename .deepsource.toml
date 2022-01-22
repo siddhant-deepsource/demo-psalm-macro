@@ -9,5 +9,5 @@ name = "secrets"
 enabled = true
 
 [[analyzers]]
-name = "github.com/ishan-deepsource/psalm-analyzer"
+name = "github.com/siddhant-deepsource/psalm-analyzer"
 enabled = true
